@@ -1,0 +1,5 @@
+{
+  "name": "Global Cyber Threat Monitor",
+  "description": "A centralized dashboard aggregating major global cyber attack maps and threat intelligence sources, enhanced with a Gemini-powered cybersecurity analyst assistant.",
+  "requestFramePermissions": []
+}
